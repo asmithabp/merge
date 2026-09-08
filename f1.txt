@@ -5,3 +5,4 @@ Initialized empty Git repository in C:/Users/ADMIN/Desktop/git&github/merge/.git
 
 ADMIN@DESKTOP-CDIQHS7 MINGW64 ~/Desktop/git&github/merge (master)
 $ 
+UPDATED FOR MASTER
